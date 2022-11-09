@@ -1,0 +1,5 @@
+Lottery-10-20-2022.sol(112)
+lending.sol(95)
+hello-world.sol(5)
+aave-09-06-2022.sol(56)
+Total(268)
