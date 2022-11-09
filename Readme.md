@@ -1,5 +1,7 @@
 Lottery-10-20-2022.sol(112)
+ERC20-11-08-2022.sol(34)
+hello-world-11-08-2022.sol(29)
 lending.sol(95)
 hello-world.sol(5)
 aave-09-06-2022.sol(56)
-Total(268)
+Total(331)
